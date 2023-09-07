@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm vivek keshtwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" width="200px" height="200px">
-
 - 👨‍💻 All of my projects are available at [https://github.com/keshtwalvivek](https://github.com/keshtwalvivek)
 
 - 💬 Ask me about *react*
